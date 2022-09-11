@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-11T12:50:14 IST" name="Suite" finished-at="2022-09-11T12:53:43 IST" duration-ms="208749">
+    <groups>
+    </groups>
+    <test started-at="2022-09-11T12:50:14 IST" name="Test1" finished-at="2022-09-11T12:53:43 IST" duration-ms="208749">
+      <class name="com.qa.testLayer.FindPatientRecordTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.FindPatientRecordTest@235834f2]" started-at="2022-09-11T12:51:34 IST" name="start" finished-at="2022-09-11T12:51:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.FindPatientRecordTest@235834f2]" started-at="2022-09-11T12:51:34 IST" name="SetUp" finished-at="2022-09-11T12:51:41 IST" duration-ms="7051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyFindPatientRecord()[pri:0, instance:com.qa.testLayer.FindPatientRecordTest@235834f2]" started-at="2022-09-11T12:51:41 IST" name="verifyFindPatientRecord" finished-at="2022-09-11T12:51:58 IST" duration-ms="17006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFindPatientRecord -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.FindPatientRecordTest@235834f2]" started-at="2022-09-11T12:51:58 IST" name="tearDown" finished-at="2022-09-11T12:51:59 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.FindPatientRecordTest@235834f2]" started-at="2022-09-11T12:51:59 IST" name="stop" finished-at="2022-09-11T12:51:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.FindPatientRecordTest -->
+      <class name="com.qa.testLayer.BookAppointmentTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.BookAppointmentTest@4218d6a3]" started-at="2022-09-11T12:52:21 IST" name="start" finished-at="2022-09-11T12:52:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.BookAppointmentTest@4218d6a3]" started-at="2022-09-11T12:52:21 IST" name="SetUp" finished-at="2022-09-11T12:52:28 IST" duration-ms="7109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyBookAppointment()[pri:0, instance:com.qa.testLayer.BookAppointmentTest@4218d6a3]" started-at="2022-09-11T12:52:28 IST" name="verifyBookAppointment" finished-at="2022-09-11T12:52:55 IST" duration-ms="26774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBookAppointment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.BookAppointmentTest@4218d6a3]" started-at="2022-09-11T12:52:55 IST" name="tearDown" finished-at="2022-09-11T12:52:55 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.BookAppointmentTest@4218d6a3]" started-at="2022-09-11T12:52:55 IST" name="stop" finished-at="2022-09-11T12:52:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.BookAppointmentTest -->
+      <class name="com.qa.testLayer.RegisterPatientTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.RegisterPatientTest@3270d194]" started-at="2022-09-11T12:50:48 IST" name="start" finished-at="2022-09-11T12:50:48 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.RegisterPatientTest@3270d194]" started-at="2022-09-11T12:50:48 IST" name="SetUp" finished-at="2022-09-11T12:50:55 IST" duration-ms="6584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyRegisterPatient()[pri:0, instance:com.qa.testLayer.RegisterPatientTest@3270d194]" started-at="2022-09-11T12:50:55 IST" name="verifyRegisterPatient" finished-at="2022-09-11T12:51:34 IST" duration-ms="39276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.RegisterPatientTest@3270d194]" started-at="2022-09-11T12:51:34 IST" name="tearDown" finished-at="2022-09-11T12:51:34 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.RegisterPatientTest@3270d194]" started-at="2022-09-11T12:51:34 IST" name="stop" finished-at="2022-09-11T12:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.RegisterPatientTest -->
+      <class name="com.qa.testLayer.LogInTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.LogInTest@368f2016]" started-at="2022-09-11T12:50:14 IST" name="start" finished-at="2022-09-11T12:50:14 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.LogInTest@368f2016]" started-at="2022-09-11T12:50:14 IST" name="SetUp" finished-at="2022-09-11T12:50:24 IST" duration-ms="9711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyLogIn()[pri:0, instance:com.qa.testLayer.LogInTest@368f2016]" started-at="2022-09-11T12:50:24 IST" name="VerifyLogIn" finished-at="2022-09-11T12:50:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.LogInTest@368f2016]" started-at="2022-09-11T12:50:24 IST" name="tearDown" finished-at="2022-09-11T12:50:24 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.LogInTest@368f2016]" started-at="2022-09-11T12:50:24 IST" name="stop" finished-at="2022-09-11T12:50:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.LogInTest -->
+      <class name="com.qa.testLayer.ViewPatientTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.ViewPatientTest@55182842]" started-at="2022-09-11T12:50:24 IST" name="start" finished-at="2022-09-11T12:50:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.ViewPatientTest@55182842]" started-at="2022-09-11T12:50:24 IST" name="SetUp" finished-at="2022-09-11T12:50:31 IST" duration-ms="7081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyViewPatient()[pri:0, instance:com.qa.testLayer.ViewPatientTest@55182842]" started-at="2022-09-11T12:50:31 IST" name="verifyViewPatient" finished-at="2022-09-11T12:50:47 IST" duration-ms="16012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyViewPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.ViewPatientTest@55182842]" started-at="2022-09-11T12:50:47 IST" name="tearDown" finished-at="2022-09-11T12:50:48 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.ViewPatientTest@55182842]" started-at="2022-09-11T12:50:48 IST" name="stop" finished-at="2022-09-11T12:50:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.ViewPatientTest -->
+      <class name="com.qa.testLayer.AddAttachmentOfPatient">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.AddAttachmentOfPatient@76505305]" started-at="2022-09-11T12:52:55 IST" name="start" finished-at="2022-09-11T12:52:55 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.AddAttachmentOfPatient@76505305]" started-at="2022-09-11T12:52:55 IST" name="SetUp" finished-at="2022-09-11T12:53:02 IST" duration-ms="6631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyAddAttachmentOfPatient()[pri:0, instance:com.qa.testLayer.AddAttachmentOfPatient@76505305]" started-at="2022-09-11T12:53:02 IST" name="verifyAddAttachmentOfPatient" finished-at="2022-09-11T12:53:34 IST" duration-ms="32341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddAttachmentOfPatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.AddAttachmentOfPatient@76505305]" started-at="2022-09-11T12:53:34 IST" name="tearDown" finished-at="2022-09-11T12:53:34 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.AddAttachmentOfPatient@76505305]" started-at="2022-09-11T12:53:34 IST" name="stop" finished-at="2022-09-11T12:53:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.AddAttachmentOfPatient -->
+      <class name="com.qa.testLayer.DeletePatientTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.DeletePatientTest@5656be13]" started-at="2022-09-11T12:51:59 IST" name="start" finished-at="2022-09-11T12:51:59 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.DeletePatientTest@5656be13]" started-at="2022-09-11T12:51:59 IST" name="SetUp" finished-at="2022-09-11T12:52:05 IST" duration-ms="6799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyDeletePatient()[pri:0, instance:com.qa.testLayer.DeletePatientTest@5656be13]" started-at="2022-09-11T12:52:05 IST" name="verifyDeletePatient" finished-at="2022-09-11T12:52:20 IST" duration-ms="14966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeletePatient -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.DeletePatientTest@5656be13]" started-at="2022-09-11T12:52:20 IST" name="tearDown" finished-at="2022-09-11T12:52:21 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.DeletePatientTest@5656be13]" started-at="2022-09-11T12:52:21 IST" name="stop" finished-at="2022-09-11T12:52:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.DeletePatientTest -->
+      <class name="com.qa.testLayer.LogOutTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.LogOutTest@14cd1699]" started-at="2022-09-11T12:53:34 IST" name="start" finished-at="2022-09-11T12:53:34 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="SetUp(java.lang.String)[pri:0, instance:com.qa.testLayer.LogOutTest@14cd1699]" started-at="2022-09-11T12:53:34 IST" name="SetUp" finished-at="2022-09-11T12:53:41 IST" duration-ms="7005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyLogOut()[pri:0, instance:com.qa.testLayer.LogOutTest@14cd1699]" started-at="2022-09-11T12:53:41 IST" name="verifyLogOut" finished-at="2022-09-11T12:53:42 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.LogOutTest@14cd1699]" started-at="2022-09-11T12:53:42 IST" name="tearDown" finished-at="2022-09-11T12:53:43 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.LogOutTest@14cd1699]" started-at="2022-09-11T12:53:43 IST" name="stop" finished-at="2022-09-11T12:53:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.LogOutTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

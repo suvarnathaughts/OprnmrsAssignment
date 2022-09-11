@@ -1,0 +1,1300 @@
+2022-09-11 11:47:43,288 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:47:43,304 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:47:47,926 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:47:51,413 - Openmrs -INFO - url launched successfully
+2022-09-11 11:47:51,545 - Openmrs -INFO - window get maximized
+2022-09-11 11:47:51,559 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:47:51,563 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:47:51,570 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:47:51,595 - Openmrs -INFO - we are on login page 
+2022-09-11 11:47:51,721 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:47:51,811 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:47:51,869 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:47:53,376 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:47:53,392 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:47:53,419 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:47:53,872 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:47:53,873 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:47:53,883 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:47:53,884 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:47:55,340 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:47:58,709 - Openmrs -INFO - url launched successfully
+2022-09-11 11:47:58,839 - Openmrs -INFO - window get maximized
+2022-09-11 11:47:58,855 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:47:58,859 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:47:58,863 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:47:58,864 - Openmrs -INFO - we are on login page 
+2022-09-11 11:47:58,994 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:47:59,099 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:47:59,158 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:48:00,805 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:48:00,810 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:48:00,812 - Openmrs -INFO - We are on HomePage now
+2022-09-11 11:48:01,965 - Openmrs -INFO - Clicked on logout link
+2022-09-11 11:48:01,965 - Openmrs -INFO - We are on Login page Now
+2022-09-11 11:48:01,986 - Openmrs -INFO - Assertion get passed
+2022-09-11 11:48:01,989 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:48:02,367 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:48:02,368 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:48:02,375 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:48:02,380 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:48:03,377 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:48:06,799 - Openmrs -INFO - url launched successfully
+2022-09-11 11:48:06,954 - Openmrs -INFO - window get maximized
+2022-09-11 11:48:06,965 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:48:06,968 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:48:06,971 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:48:06,971 - Openmrs -INFO - we are on login page 
+2022-09-11 11:48:07,058 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:48:07,143 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:48:07,178 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:48:08,964 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:48:08,965 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:48:08,966 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 11:48:15,800 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 11:48:15,800 - Openmrs -INFO - entering patient Name started
+2022-09-11 11:48:18,147 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 11:48:20,190 - Openmrs -INFO - Patient gender get selected
+2022-09-11 11:48:20,231 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 11:48:20,562 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 11:48:22,564 - Openmrs -INFO - Started entering patient Address
+2022-09-11 11:48:23,184 - Openmrs -INFO - entered patient Address
+2022-09-11 11:48:25,198 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 11:48:25,415 - Openmrs -INFO - entered patient phone number
+2022-09-11 11:48:27,425 - Openmrs -INFO - entering relation with patient
+2022-09-11 11:48:27,678 - Openmrs -INFO - entered relation
+2022-09-11 11:48:47,317 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:48:47,753 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:48:47,755 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:48:47,760 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:48:47,761 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:48:48,843 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:48:52,479 - Openmrs -INFO - url launched successfully
+2022-09-11 11:48:52,642 - Openmrs -INFO - window get maximized
+2022-09-11 11:48:52,656 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:48:52,660 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:48:52,662 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:48:52,663 - Openmrs -INFO - we are on login page 
+2022-09-11 11:48:52,759 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:48:52,846 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:48:52,884 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:48:54,595 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:48:54,597 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:48:54,600 - Openmrs -INFO - Home page displayed
+2022-09-11 11:48:56,775 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 11:48:58,829 - Openmrs -INFO - entered patient name in search box
+2022-09-11 11:49:04,498 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 11:49:06,504 - Openmrs -INFO - Patient page displayed
+2022-09-11 11:49:08,566 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:49:13,723 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:49:13,724 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:49:13,760 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:49:13,762 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:49:14,871 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:49:18,556 - Openmrs -INFO - url launched successfully
+2022-09-11 11:49:18,729 - Openmrs -INFO - window get maximized
+2022-09-11 11:49:18,735 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:49:18,737 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:49:18,739 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:49:18,739 - Openmrs -INFO - we are on login page 
+2022-09-11 11:49:18,806 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:49:18,884 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:49:18,920 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:49:20,837 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:49:20,838 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:49:20,839 - Openmrs -INFO - Home page is displayed
+2022-09-11 11:49:23,343 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 11:49:25,388 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 11:49:30,515 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 11:49:32,578 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 11:49:32,674 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 11:49:32,735 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 11:49:45,738 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:49:48,476 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:49:48,477 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:49:48,480 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:49:48,480 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:49:49,555 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:49:53,554 - Openmrs -INFO - url launched successfully
+2022-09-11 11:49:53,677 - Openmrs -INFO - window get maximized
+2022-09-11 11:49:53,689 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:49:53,691 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:49:53,692 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:49:53,693 - Openmrs -INFO - we are on login page 
+2022-09-11 11:49:53,765 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:49:53,838 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:49:53,875 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:49:55,430 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:49:55,436 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:49:55,438 - Openmrs -INFO - home page is displayed
+2022-09-11 11:49:57,736 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 11:49:59,786 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 11:50:01,826 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 11:50:15,865 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:50:20,843 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:50:20,845 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:50:20,852 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:50:20,853 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:50:21,903 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:50:25,613 - Openmrs -INFO - url launched successfully
+2022-09-11 11:50:25,765 - Openmrs -INFO - window get maximized
+2022-09-11 11:50:25,778 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:50:25,780 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:50:25,785 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:50:25,785 - Openmrs -INFO - we are on login page 
+2022-09-11 11:50:25,884 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:50:25,986 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:50:26,045 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:50:27,887 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:50:27,891 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:50:27,891 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 11:50:30,349 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 11:50:32,355 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 11:50:32,397 - Openmrs -INFO - entered ID in to search box
+2022-09-11 11:50:39,225 - Openmrs -INFO - Clicked on ID
+2022-09-11 11:50:41,248 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 11:50:41,267 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 11:50:41,284 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 11:50:41,301 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 11:50:41,318 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 11:50:43,325 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:50:43,752 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:50:43,753 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:50:43,760 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:50:43,762 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:50:45,430 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:50:49,390 - Openmrs -INFO - url launched successfully
+2022-09-11 11:50:49,559 - Openmrs -INFO - window get maximized
+2022-09-11 11:50:49,567 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:50:49,584 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:50:49,597 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:50:49,598 - Openmrs -INFO - we are on login page 
+2022-09-11 11:50:49,753 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:50:49,904 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:50:49,963 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:50:51,556 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:50:51,558 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:50:51,559 - Openmrs -INFO - home is displayed
+2022-09-11 11:50:54,051 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 11:50:56,059 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 11:50:56,109 - Openmrs -INFO - entered ID  in search box
+2022-09-11 11:51:02,989 - Openmrs -INFO - clicked on identifier
+2022-09-11 11:51:05,000 - Openmrs -INFO - Patient page is dispalyed
+2022-09-11 11:51:11,464 - Openmrs -INFO - Clicked on attachment link
+2022-09-11 11:51:13,470 - Openmrs -INFO - Attachment page is displayed
+2022-09-11 11:51:13,513 - Openmrs -INFO - clicked on click and drop link successfully
+2022-09-11 11:51:21,824 - Openmrs -INFO - File uploaded
+2022-09-11 11:51:21,959 - Openmrs -INFO - Entered text into Caption text area
+2022-09-11 11:51:22,000 - Openmrs -INFO - clicked on file upload button successfully
+2022-09-11 11:51:24,058 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:51:29,314 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:51:29,316 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:52:43,726 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:52:43,743 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:52:47,250 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:52:51,912 - Openmrs -INFO - url launched successfully
+2022-09-11 11:52:52,034 - Openmrs -INFO - window get maximized
+2022-09-11 11:52:52,052 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:52:52,056 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:52:52,060 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:52:52,081 - Openmrs -INFO - we are on login page 
+2022-09-11 11:52:52,231 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:52:52,320 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:52:52,380 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:52:54,248 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:52:54,259 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:52:54,260 - Openmrs -INFO - Home page displayed
+2022-09-11 11:52:58,823 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 11:53:00,912 - Openmrs -INFO - entered patient name in search box
+2022-09-11 11:53:08,072 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 11:53:10,084 - Openmrs -INFO - Patient page displayed
+2022-09-11 11:53:12,124 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:53:17,397 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:53:17,399 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:55:33,873 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:55:48,702 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:55:48,721 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:55:52,513 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:55:56,789 - Openmrs -INFO - url launched successfully
+2022-09-11 11:55:56,918 - Openmrs -INFO - window get maximized
+2022-09-11 11:55:56,937 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:55:56,946 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:55:56,951 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:55:56,985 - Openmrs -INFO - we are on login page 
+2022-09-11 11:55:57,073 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:55:57,152 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:55:57,193 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:56:00,047 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:56:00,059 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:56:00,060 - Openmrs -INFO - Home page displayed
+2022-09-11 11:56:02,745 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 11:56:04,794 - Openmrs -INFO - entered patient name in search box
+2022-09-11 11:56:16,320 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 11:56:18,332 - Openmrs -INFO - Patient page displayed
+2022-09-11 11:56:20,431 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:56:25,695 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:56:25,697 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:57:27,427 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:57:27,443 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:57:31,375 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:57:36,037 - Openmrs -INFO - url launched successfully
+2022-09-11 11:57:36,160 - Openmrs -INFO - window get maximized
+2022-09-11 11:57:36,175 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:57:36,179 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:57:36,184 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:57:36,207 - Openmrs -INFO - we are on login page 
+2022-09-11 11:57:36,330 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:57:36,437 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:57:36,496 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:57:39,329 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:57:39,339 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:57:39,339 - Openmrs -INFO - Home page displayed
+2022-09-11 11:57:41,964 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 11:57:44,089 - Openmrs -INFO - entered patient name in search box
+2022-09-11 11:57:50,825 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 11:57:52,836 - Openmrs -INFO - Patient page displayed
+2022-09-11 11:57:54,884 - Openmrs -INFO - Patient record is found
+2022-09-11 11:57:54,886 - Openmrs -INFO - Test Execution Completed
+2022-09-11 11:57:55,327 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:57:55,328 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 11:58:20,941 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 11:58:20,964 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 11:58:24,359 - Openmrs -INFO - browser invoked successfully
+2022-09-11 11:58:28,419 - Openmrs -INFO - url launched successfully
+2022-09-11 11:58:28,549 - Openmrs -INFO - window get maximized
+2022-09-11 11:58:28,771 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 11:58:28,778 - Openmrs -INFO - implicit wait get applied
+2022-09-11 11:58:28,783 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 11:58:28,805 - Openmrs -INFO - we are on login page 
+2022-09-11 11:58:28,942 - Openmrs -INFO - Username entered successfully
+2022-09-11 11:58:29,062 - Openmrs -INFO - Password entered successfully
+2022-09-11 11:58:29,128 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 11:58:30,530 - Openmrs -INFO - Clicked on login button
+2022-09-11 11:58:30,542 - Openmrs -INFO - Test Execution Started
+2022-09-11 11:58:30,543 - Openmrs -INFO - Home page is displayed
+2022-09-11 11:58:32,888 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 11:58:34,935 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 11:58:41,845 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 11:58:43,930 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 11:58:44,054 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 11:58:44,089 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 11:58:57,481 - Openmrs -INFO - Test Execution Failed
+2022-09-11 11:59:02,563 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 11:59:02,564 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:00:30,318 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:00:30,333 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:00:34,445 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:00:37,832 - Openmrs -INFO - url launched successfully
+2022-09-11 12:00:37,963 - Openmrs -INFO - window get maximized
+2022-09-11 12:00:37,977 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:00:37,983 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:00:37,988 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:00:38,011 - Openmrs -INFO - we are on login page 
+2022-09-11 12:00:38,166 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:00:38,275 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:00:38,407 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:00:40,057 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:00:40,071 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:00:40,071 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:00:42,272 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:00:44,339 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:00:51,265 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:00:57,229 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:00:57,296 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:00:57,337 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:01:11,435 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:01:16,614 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:01:16,616 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:01:53,735 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:01:53,751 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:01:57,542 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:02:01,624 - Openmrs -INFO - url launched successfully
+2022-09-11 12:02:01,767 - Openmrs -INFO - window get maximized
+2022-09-11 12:02:01,795 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:02:01,802 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:02:01,807 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:02:01,829 - Openmrs -INFO - we are on login page 
+2022-09-11 12:02:01,956 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:02:02,043 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:02:02,094 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:02:03,727 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:02:03,737 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:02:03,737 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:02:06,572 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:02:08,635 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:02:13,689 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:02:15,944 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:02:15,995 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:02:16,034 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:02:18,049 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:02:18,383 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:02:18,386 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:06:17,149 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:06:17,164 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:06:21,938 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:06:26,047 - Openmrs -INFO - url launched successfully
+2022-09-11 12:06:26,168 - Openmrs -INFO - window get maximized
+2022-09-11 12:06:26,184 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:06:26,187 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:06:26,190 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:06:26,210 - Openmrs -INFO - we are on login page 
+2022-09-11 12:06:26,326 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:06:26,425 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:06:26,477 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:06:28,285 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:06:28,296 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:06:28,305 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:06:28,552 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:06:28,554 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:06:28,560 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:06:28,562 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:06:30,835 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:06:35,092 - Openmrs -INFO - url launched successfully
+2022-09-11 12:06:35,220 - Openmrs -INFO - window get maximized
+2022-09-11 12:06:35,233 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:06:35,236 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:06:35,238 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:06:35,238 - Openmrs -INFO - we are on login page 
+2022-09-11 12:06:35,308 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:06:35,386 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:06:35,433 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:06:37,504 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:06:37,505 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:06:37,506 - Openmrs -INFO - We are on HomePage now
+2022-09-11 12:06:38,675 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:06:38,675 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:06:38,685 - Openmrs -INFO - Assertion get passed
+2022-09-11 12:06:38,687 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:06:38,948 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:06:38,949 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:06:38,952 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:06:38,952 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:06:40,051 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:06:43,723 - Openmrs -INFO - url launched successfully
+2022-09-11 12:06:43,844 - Openmrs -INFO - window get maximized
+2022-09-11 12:06:43,854 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:06:43,857 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:06:43,860 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:06:43,862 - Openmrs -INFO - we are on login page 
+2022-09-11 12:06:43,959 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:06:44,063 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:06:44,110 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:06:45,859 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:06:45,862 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:06:45,863 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:06:52,720 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 12:06:52,720 - Openmrs -INFO - entering patient Name started
+2022-09-11 12:06:55,019 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 12:06:57,069 - Openmrs -INFO - Patient gender get selected
+2022-09-11 12:06:57,114 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 12:06:57,403 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 12:06:59,408 - Openmrs -INFO - Started entering patient Address
+2022-09-11 12:07:00,411 - Openmrs -INFO - entered patient Address
+2022-09-11 12:07:02,419 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 12:07:02,636 - Openmrs -INFO - entered patient phone number
+2022-09-11 12:07:04,640 - Openmrs -INFO - entering relation with patient
+2022-09-11 12:07:04,920 - Openmrs -INFO - entered relation
+2022-09-11 12:07:27,240 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:07:27,701 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:07:27,702 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:07:27,706 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:07:27,707 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:07:28,885 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:07:33,102 - Openmrs -INFO - url launched successfully
+2022-09-11 12:07:33,224 - Openmrs -INFO - window get maximized
+2022-09-11 12:07:33,241 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:07:33,245 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:07:33,248 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:07:33,248 - Openmrs -INFO - we are on login page 
+2022-09-11 12:07:33,319 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:07:33,405 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:07:33,443 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:07:37,032 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:07:37,034 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:07:37,035 - Openmrs -INFO - Home page displayed
+2022-09-11 12:07:39,925 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 12:07:41,975 - Openmrs -INFO - entered patient name in search box
+2022-09-11 12:07:50,340 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 12:07:52,346 - Openmrs -INFO - Patient page displayed
+2022-09-11 12:07:54,384 - Openmrs -INFO - Patient record is found
+2022-09-11 12:07:54,385 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:07:54,708 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:07:54,710 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:07:54,751 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:07:54,752 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:07:55,999 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:08:01,880 - Openmrs -INFO - url launched successfully
+2022-09-11 12:08:02,010 - Openmrs -INFO - window get maximized
+2022-09-11 12:08:02,020 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:08:02,021 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:08:02,024 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:08:02,026 - Openmrs -INFO - we are on login page 
+2022-09-11 12:08:02,122 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:08:02,203 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:08:02,247 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:08:05,233 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:08:05,235 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:08:05,237 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:08:08,483 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:08:10,526 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:08:16,730 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:08:19,179 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:08:19,222 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:08:19,261 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:08:34,976 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:08:40,002 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:08:40,003 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:08:40,010 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:08:40,011 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:08:40,959 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:08:44,743 - Openmrs -INFO - url launched successfully
+2022-09-11 12:08:44,873 - Openmrs -INFO - window get maximized
+2022-09-11 12:08:44,881 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:08:44,883 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:08:44,884 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:08:44,884 - Openmrs -INFO - we are on login page 
+2022-09-11 12:08:44,965 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:08:45,056 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:08:45,098 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:08:46,722 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:08:46,725 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:08:46,726 - Openmrs -INFO - home page is displayed
+2022-09-11 12:08:48,746 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 12:08:50,788 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 12:08:52,839 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 12:09:06,889 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:09:07,264 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:09:07,265 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:09:07,268 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:09:07,269 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:09:08,256 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:09:12,490 - Openmrs -INFO - url launched successfully
+2022-09-11 12:09:12,749 - Openmrs -INFO - window get maximized
+2022-09-11 12:09:12,758 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:09:12,762 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:09:12,765 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:09:12,766 - Openmrs -INFO - we are on login page 
+2022-09-11 12:09:12,826 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:09:12,895 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:09:12,937 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:09:14,678 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:09:14,681 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:09:14,681 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:09:17,168 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 12:09:19,179 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 12:09:19,246 - Openmrs -INFO - entered ID in to search box
+2022-09-11 12:09:32,083 - Openmrs -INFO - Clicked on ID
+2022-09-11 12:09:34,130 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 12:09:34,151 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 12:09:34,170 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 12:09:34,190 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 12:09:34,212 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 12:09:36,219 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:09:36,402 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:09:36,403 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:09:36,407 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:09:36,408 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:09:37,679 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:09:41,539 - Openmrs -INFO - url launched successfully
+2022-09-11 12:09:41,660 - Openmrs -INFO - window get maximized
+2022-09-11 12:09:41,668 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:09:41,669 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:09:41,671 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:09:41,671 - Openmrs -INFO - we are on login page 
+2022-09-11 12:09:41,742 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:09:41,835 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:09:41,872 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:09:44,235 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:09:44,238 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:09:44,239 - Openmrs -INFO - home is displayed
+2022-09-11 12:09:45,156 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 12:09:47,169 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 12:09:57,225 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:10:04,808 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:10:04,809 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:20:35,852 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:20:35,866 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:20:40,295 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:20:45,115 - Openmrs -INFO - url launched successfully
+2022-09-11 12:20:45,248 - Openmrs -INFO - window get maximized
+2022-09-11 12:20:45,263 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:20:45,267 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:20:45,269 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:20:45,297 - Openmrs -INFO - we are on login page 
+2022-09-11 12:20:45,422 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:20:45,519 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:20:45,565 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:20:47,550 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:20:47,557 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:20:47,566 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:20:48,711 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:20:48,712 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:20:48,989 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:20:48,990 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:20:49,001 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:20:49,002 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:20:50,481 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:20:54,127 - Openmrs -INFO - url launched successfully
+2022-09-11 12:20:54,263 - Openmrs -INFO - window get maximized
+2022-09-11 12:20:54,285 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:20:54,289 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:20:54,293 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:20:54,294 - Openmrs -INFO - we are on login page 
+2022-09-11 12:20:54,419 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:20:54,535 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:20:54,600 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:20:56,232 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:20:56,233 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:20:56,234 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:20:58,613 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 12:21:00,626 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 12:21:00,678 - Openmrs -INFO - entered ID in to search box
+2022-09-11 12:21:09,218 - Openmrs -INFO - Clicked on ID
+2022-09-11 12:21:11,257 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 12:21:11,277 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 12:21:11,307 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 12:21:11,326 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 12:21:11,347 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 12:21:13,358 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:21:15,109 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:21:15,109 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:21:15,449 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:21:15,452 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:21:15,457 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:21:15,459 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:21:17,250 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:21:24,818 - Openmrs -INFO - url launched successfully
+2022-09-11 12:21:24,941 - Openmrs -INFO - window get maximized
+2022-09-11 12:21:24,950 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:21:24,953 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:21:24,955 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:21:24,956 - Openmrs -INFO - we are on login page 
+2022-09-11 12:21:25,034 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:21:25,119 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:21:25,164 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:21:27,197 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:21:27,199 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:21:27,199 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:21:34,531 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 12:21:34,532 - Openmrs -INFO - entering patient Name started
+2022-09-11 12:21:36,833 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 12:21:38,880 - Openmrs -INFO - Patient gender get selected
+2022-09-11 12:21:38,917 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 12:21:39,459 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 12:21:41,465 - Openmrs -INFO - Started entering patient Address
+2022-09-11 12:21:42,254 - Openmrs -INFO - entered patient Address
+2022-09-11 12:21:44,263 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 12:21:44,468 - Openmrs -INFO - entered patient phone number
+2022-09-11 12:21:46,480 - Openmrs -INFO - entering relation with patient
+2022-09-11 12:21:46,737 - Openmrs -INFO - entered relation
+2022-09-11 12:22:03,006 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:22:03,537 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:22:03,538 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:22:03,831 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:22:03,833 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:22:03,839 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:22:03,840 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:22:04,983 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:22:08,981 - Openmrs -INFO - url launched successfully
+2022-09-11 12:22:09,110 - Openmrs -INFO - window get maximized
+2022-09-11 12:22:09,117 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:22:09,120 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:22:09,122 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:22:09,123 - Openmrs -INFO - we are on login page 
+2022-09-11 12:22:09,189 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:22:09,265 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:22:09,304 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:22:10,881 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:22:10,886 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:22:10,888 - Openmrs -INFO - Home page displayed
+2022-09-11 12:22:13,735 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 12:22:15,788 - Openmrs -INFO - entered patient name in search box
+2022-09-11 12:22:21,380 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 12:22:23,387 - Openmrs -INFO - Patient page displayed
+2022-09-11 12:22:25,422 - Openmrs -INFO - Patient record is found
+2022-09-11 12:22:25,423 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:22:26,764 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:22:26,764 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:22:27,179 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:22:27,180 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:22:27,228 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:22:27,229 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:22:28,297 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:22:32,444 - Openmrs -INFO - url launched successfully
+2022-09-11 12:22:32,583 - Openmrs -INFO - window get maximized
+2022-09-11 12:22:32,596 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:22:32,603 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:22:32,606 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:22:32,607 - Openmrs -INFO - we are on login page 
+2022-09-11 12:22:32,697 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:22:32,768 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:22:32,804 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:22:34,544 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:22:34,545 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:22:34,545 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:22:36,984 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:22:39,025 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:22:46,475 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:22:49,324 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:22:49,367 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:22:49,401 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:23:03,507 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:23:11,480 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:23:11,487 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:23:11,773 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:23:11,774 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:23:11,777 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:23:11,777 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:23:12,859 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:23:17,926 - Openmrs -INFO - url launched successfully
+2022-09-11 12:23:18,054 - Openmrs -INFO - window get maximized
+2022-09-11 12:23:18,074 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:23:18,076 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:23:18,077 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:23:18,078 - Openmrs -INFO - we are on login page 
+2022-09-11 12:23:18,147 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:23:18,226 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:23:18,264 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:23:20,285 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:23:20,287 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:23:20,288 - Openmrs -INFO - home page is displayed
+2022-09-11 12:23:22,785 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 12:23:24,859 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 12:23:26,908 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 12:23:40,976 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:23:46,208 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:23:46,208 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:23:46,496 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:23:46,499 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:23:46,506 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:23:46,508 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:23:47,496 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:23:51,678 - Openmrs -INFO - url launched successfully
+2022-09-11 12:23:51,806 - Openmrs -INFO - window get maximized
+2022-09-11 12:23:51,824 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:23:51,828 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:23:51,831 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:23:51,832 - Openmrs -INFO - we are on login page 
+2022-09-11 12:23:51,899 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:23:51,994 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:23:52,035 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:23:53,622 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:23:53,623 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:23:53,624 - Openmrs -INFO - home is displayed
+2022-09-11 12:23:55,591 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 12:23:57,595 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 12:23:57,640 - Openmrs -INFO - entered ID  in search box
+2022-09-11 12:24:06,712 - Openmrs -INFO - clicked on identifier
+2022-09-11 12:24:08,721 - Openmrs -INFO - Patient page is dispalyed
+2022-09-11 12:24:13,351 - Openmrs -INFO - Clicked on attachment link
+2022-09-11 12:24:15,356 - Openmrs -INFO - Attachment page is displayed
+2022-09-11 12:24:15,408 - Openmrs -INFO - clicked on click and drop link successfully
+2022-09-11 12:24:23,656 - Openmrs -INFO - File uploaded
+2022-09-11 12:24:23,772 - Openmrs -INFO - Entered text into Caption text area
+2022-09-11 12:24:23,814 - Openmrs -INFO - clicked on file upload button successfully
+2022-09-11 12:24:28,398 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:24:34,810 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:24:34,810 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:24:35,123 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:24:35,123 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:24:35,132 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:24:35,133 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:24:36,063 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:24:39,950 - Openmrs -INFO - url launched successfully
+2022-09-11 12:24:40,166 - Openmrs -INFO - window get maximized
+2022-09-11 12:24:40,174 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:24:40,175 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:24:40,177 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:24:40,177 - Openmrs -INFO - we are on login page 
+2022-09-11 12:24:40,243 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:24:40,325 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:24:40,362 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:24:41,914 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:24:41,916 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:24:41,917 - Openmrs -INFO - We are on HomePage now
+2022-09-11 12:24:43,092 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:24:43,092 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:24:43,098 - Openmrs -INFO - Assertion get passed
+2022-09-11 12:24:43,100 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:32:38,026 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:32:38,041 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:32:40,983 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:32:44,927 - Openmrs -INFO - url launched successfully
+2022-09-11 12:32:45,067 - Openmrs -INFO - window get maximized
+2022-09-11 12:32:45,078 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:32:45,083 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:32:45,087 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:32:45,111 - Openmrs -INFO - we are on login page 
+2022-09-11 12:32:45,264 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:32:45,371 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:32:45,428 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:32:46,936 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:32:46,944 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:32:46,955 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:32:47,188 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:32:47,190 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:32:47,196 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:32:47,197 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:32:48,298 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:32:51,873 - Openmrs -INFO - url launched successfully
+2022-09-11 12:32:51,996 - Openmrs -INFO - window get maximized
+2022-09-11 12:32:52,003 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:32:52,006 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:32:52,007 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:32:52,008 - Openmrs -INFO - we are on login page 
+2022-09-11 12:32:52,080 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:32:52,161 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:32:52,205 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:32:53,995 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:32:53,998 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:32:53,999 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:32:56,571 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 12:32:58,575 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 12:32:58,614 - Openmrs -INFO - entered ID in to search box
+2022-09-11 12:33:07,134 - Openmrs -INFO - Clicked on ID
+2022-09-11 12:33:09,168 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 12:33:09,188 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 12:33:09,206 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 12:33:09,225 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 12:33:09,242 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 12:33:11,251 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:33:11,525 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:33:11,526 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:33:11,533 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:33:11,534 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:33:12,706 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:33:16,832 - Openmrs -INFO - url launched successfully
+2022-09-11 12:33:16,964 - Openmrs -INFO - window get maximized
+2022-09-11 12:33:16,980 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:33:16,984 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:33:16,989 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:33:16,990 - Openmrs -INFO - we are on login page 
+2022-09-11 12:33:17,062 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:33:17,145 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:33:17,184 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:33:18,738 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:33:18,739 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:33:18,740 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:33:25,916 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 12:33:25,917 - Openmrs -INFO - entering patient Name started
+2022-09-11 12:33:28,208 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 12:33:30,256 - Openmrs -INFO - Patient gender get selected
+2022-09-11 12:33:30,297 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 12:33:30,629 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 12:33:32,631 - Openmrs -INFO - Started entering patient Address
+2022-09-11 12:33:33,298 - Openmrs -INFO - entered patient Address
+2022-09-11 12:33:35,311 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 12:33:35,500 - Openmrs -INFO - entered patient phone number
+2022-09-11 12:33:37,514 - Openmrs -INFO - entering relation with patient
+2022-09-11 12:33:37,769 - Openmrs -INFO - entered relation
+2022-09-11 12:33:53,318 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:33:53,638 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:33:53,639 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:33:53,642 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:33:53,643 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:33:54,673 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:33:58,477 - Openmrs -INFO - url launched successfully
+2022-09-11 12:33:58,605 - Openmrs -INFO - window get maximized
+2022-09-11 12:33:58,614 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:33:58,617 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:33:58,619 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:33:58,620 - Openmrs -INFO - we are on login page 
+2022-09-11 12:33:58,700 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:33:58,798 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:33:58,846 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:34:00,586 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:34:00,588 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:34:00,589 - Openmrs -INFO - Home page displayed
+2022-09-11 12:34:03,180 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 12:34:05,221 - Openmrs -INFO - entered patient name in search box
+2022-09-11 12:34:11,732 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 12:34:13,737 - Openmrs -INFO - Patient page displayed
+2022-09-11 12:34:15,773 - Openmrs -INFO - Patient record is found
+2022-09-11 12:34:15,774 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:34:16,148 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:34:16,149 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:34:16,153 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:34:16,154 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:34:17,161 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:34:20,670 - Openmrs -INFO - url launched successfully
+2022-09-11 12:34:20,791 - Openmrs -INFO - window get maximized
+2022-09-11 12:34:20,803 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:34:20,813 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:34:20,816 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:34:20,817 - Openmrs -INFO - we are on login page 
+2022-09-11 12:34:20,890 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:34:20,972 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:34:21,016 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:34:22,645 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:34:22,648 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:34:22,649 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:34:25,049 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:34:27,099 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:34:35,478 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:34:37,553 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:34:37,655 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:34:37,719 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:34:51,796 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:34:56,813 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:34:56,817 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:34:56,823 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:34:56,825 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:34:57,946 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:35:04,411 - Openmrs -INFO - url launched successfully
+2022-09-11 12:35:04,535 - Openmrs -INFO - window get maximized
+2022-09-11 12:35:04,551 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:35:04,552 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:35:04,556 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:35:04,557 - Openmrs -INFO - we are on login page 
+2022-09-11 12:35:04,625 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:35:04,710 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:35:04,749 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:35:06,532 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:35:06,533 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:35:06,533 - Openmrs -INFO - home page is displayed
+2022-09-11 12:35:10,659 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 12:35:12,703 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 12:35:14,750 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 12:35:28,820 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:35:31,437 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:35:31,439 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:35:31,442 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:35:31,443 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:35:32,549 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:35:36,434 - Openmrs -INFO - url launched successfully
+2022-09-11 12:35:36,559 - Openmrs -INFO - window get maximized
+2022-09-11 12:35:36,566 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:35:36,569 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:35:36,570 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:35:36,570 - Openmrs -INFO - we are on login page 
+2022-09-11 12:35:36,641 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:35:36,709 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:35:36,750 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:35:38,407 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:35:38,408 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:35:38,409 - Openmrs -INFO - home is displayed
+2022-09-11 12:35:40,799 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 12:35:42,809 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 12:35:42,849 - Openmrs -INFO - entered ID  in search box
+2022-09-11 12:35:50,426 - Openmrs -INFO - clicked on identifier
+2022-09-11 12:35:52,438 - Openmrs -INFO - Patient page is dispalyed
+2022-09-11 12:35:58,034 - Openmrs -INFO - Clicked on attachment link
+2022-09-11 12:36:00,049 - Openmrs -INFO - Attachment page is displayed
+2022-09-11 12:36:00,644 - Openmrs -INFO - clicked on click and drop link successfully
+2022-09-11 12:36:08,871 - Openmrs -INFO - File uploaded
+2022-09-11 12:36:08,982 - Openmrs -INFO - Entered text into Caption text area
+2022-09-11 12:36:09,035 - Openmrs -INFO - clicked on file upload button successfully
+2022-09-11 12:36:11,884 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:36:12,170 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:36:12,171 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:36:12,175 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:36:12,176 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:36:13,342 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:36:17,349 - Openmrs -INFO - url launched successfully
+2022-09-11 12:36:17,470 - Openmrs -INFO - window get maximized
+2022-09-11 12:36:17,480 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:36:17,482 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:36:17,485 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:36:17,485 - Openmrs -INFO - we are on login page 
+2022-09-11 12:36:17,616 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:36:17,709 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:36:17,750 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:36:19,363 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:36:19,365 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:36:19,366 - Openmrs -INFO - We are on HomePage now
+2022-09-11 12:36:20,652 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:36:20,653 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:36:20,664 - Openmrs -INFO - Assertion get passed
+2022-09-11 12:36:20,665 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:36:20,834 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:36:20,835 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:40:48,444 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:40:48,459 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:40:52,142 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:40:56,145 - Openmrs -INFO - url launched successfully
+2022-09-11 12:40:56,292 - Openmrs -INFO - window get maximized
+2022-09-11 12:40:56,316 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:40:56,322 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:40:56,326 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:40:56,348 - Openmrs -INFO - we are on login page 
+2022-09-11 12:40:56,464 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:40:56,591 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:40:56,762 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:40:58,736 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:40:58,746 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:40:58,760 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:40:59,016 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:40:59,019 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:40:59,025 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:40:59,026 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:41:00,481 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:41:04,469 - Openmrs -INFO - url launched successfully
+2022-09-11 12:41:04,600 - Openmrs -INFO - window get maximized
+2022-09-11 12:41:04,611 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:41:04,617 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:41:04,620 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:41:04,621 - Openmrs -INFO - we are on login page 
+2022-09-11 12:41:04,697 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:41:04,790 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:41:04,840 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:41:06,443 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:41:06,445 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:41:06,445 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:41:09,088 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 12:41:11,091 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 12:41:11,181 - Openmrs -INFO - entered ID in to search box
+2022-09-11 12:41:19,029 - Openmrs -INFO - Clicked on ID
+2022-09-11 12:41:21,071 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 12:41:21,091 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 12:41:21,109 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 12:41:21,129 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 12:41:21,148 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 12:41:23,158 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:41:23,540 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:41:23,541 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:41:23,549 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:41:23,551 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:41:25,073 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:41:30,605 - Openmrs -INFO - url launched successfully
+2022-09-11 12:41:30,735 - Openmrs -INFO - window get maximized
+2022-09-11 12:41:30,749 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:41:30,752 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:41:30,754 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:41:30,755 - Openmrs -INFO - we are on login page 
+2022-09-11 12:41:30,854 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:41:30,946 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:41:31,009 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:41:33,128 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:41:33,133 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:41:33,134 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:41:40,896 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 12:41:40,897 - Openmrs -INFO - entering patient Name started
+2022-09-11 12:41:43,217 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 12:41:45,262 - Openmrs -INFO - Patient gender get selected
+2022-09-11 12:41:45,294 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 12:41:45,683 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 12:41:47,687 - Openmrs -INFO - Started entering patient Address
+2022-09-11 12:41:48,429 - Openmrs -INFO - entered patient Address
+2022-09-11 12:41:50,437 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 12:41:50,574 - Openmrs -INFO - entered patient phone number
+2022-09-11 12:41:52,586 - Openmrs -INFO - entering relation with patient
+2022-09-11 12:41:52,799 - Openmrs -INFO - entered relation
+2022-09-11 12:42:13,247 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:42:13,552 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:42:13,552 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:42:13,556 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:42:13,556 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:42:14,644 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:42:18,478 - Openmrs -INFO - url launched successfully
+2022-09-11 12:42:18,607 - Openmrs -INFO - window get maximized
+2022-09-11 12:42:18,617 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:42:18,619 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:42:18,620 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:42:18,621 - Openmrs -INFO - we are on login page 
+2022-09-11 12:42:18,692 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:42:18,779 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:42:18,824 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:42:20,426 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:42:20,428 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:42:20,428 - Openmrs -INFO - Home page displayed
+2022-09-11 12:42:22,898 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 12:42:24,942 - Openmrs -INFO - entered patient name in search box
+2022-09-11 12:42:30,904 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 12:42:32,908 - Openmrs -INFO - Patient page displayed
+2022-09-11 12:42:34,947 - Openmrs -INFO - Patient record is found
+2022-09-11 12:42:34,948 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:42:35,257 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:42:35,258 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:42:35,262 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:42:35,264 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:42:36,472 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:42:40,445 - Openmrs -INFO - url launched successfully
+2022-09-11 12:42:40,577 - Openmrs -INFO - window get maximized
+2022-09-11 12:42:40,589 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:42:40,591 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:42:40,593 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:42:40,594 - Openmrs -INFO - we are on login page 
+2022-09-11 12:42:40,659 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:42:40,740 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:42:40,776 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:42:42,601 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:42:42,603 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:42:42,604 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:42:44,641 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:42:46,687 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:42:55,707 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:42:58,427 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:42:58,476 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:42:58,519 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:43:13,725 - Openmrs -INFO - Test Execution Failed
+2022-09-11 12:43:19,023 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:43:19,023 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:43:19,029 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:43:19,030 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:43:20,047 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:43:23,725 - Openmrs -INFO - url launched successfully
+2022-09-11 12:43:23,889 - Openmrs -INFO - window get maximized
+2022-09-11 12:43:23,899 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:43:23,902 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:43:23,906 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:43:23,907 - Openmrs -INFO - we are on login page 
+2022-09-11 12:43:23,984 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:43:24,065 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:43:24,100 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:43:25,841 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:43:25,843 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:43:25,844 - Openmrs -INFO - home page is displayed
+2022-09-11 12:43:28,301 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 12:43:30,360 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 12:43:38,433 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 12:43:45,466 - Openmrs -INFO - clicked On Request Appointment link
+2022-09-11 12:43:48,157 - Openmrs -INFO - entered appointment type and clicked on autosuggestion first option
+2022-09-11 12:43:50,217 - Openmrs -INFO - clicked On Save button
+2022-09-11 12:43:52,978 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:43:53,376 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:43:53,378 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:43:53,382 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:43:53,383 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:43:54,445 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:43:58,305 - Openmrs -INFO - url launched successfully
+2022-09-11 12:43:58,428 - Openmrs -INFO - window get maximized
+2022-09-11 12:43:58,439 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:43:58,441 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:43:58,442 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:43:58,442 - Openmrs -INFO - we are on login page 
+2022-09-11 12:43:58,502 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:43:58,580 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:43:58,615 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:44:00,772 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:44:00,773 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:44:00,773 - Openmrs -INFO - home is displayed
+2022-09-11 12:44:03,388 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 12:44:05,404 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 12:44:05,451 - Openmrs -INFO - entered ID  in search box
+2022-09-11 12:44:12,801 - Openmrs -INFO - clicked on identifier
+2022-09-11 12:44:14,811 - Openmrs -INFO - Patient page is dispalyed
+2022-09-11 12:44:19,540 - Openmrs -INFO - Clicked on attachment link
+2022-09-11 12:44:21,557 - Openmrs -INFO - Attachment page is displayed
+2022-09-11 12:44:21,638 - Openmrs -INFO - clicked on click and drop link successfully
+2022-09-11 12:44:29,884 - Openmrs -INFO - File uploaded
+2022-09-11 12:44:29,999 - Openmrs -INFO - Entered text into Caption text area
+2022-09-11 12:44:30,047 - Openmrs -INFO - clicked on file upload button successfully
+2022-09-11 12:44:32,143 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:44:32,508 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:44:32,508 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:44:32,512 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:44:32,513 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:44:33,554 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:44:37,435 - Openmrs -INFO - url launched successfully
+2022-09-11 12:44:37,612 - Openmrs -INFO - window get maximized
+2022-09-11 12:44:37,630 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:44:37,633 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:44:37,635 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:44:37,635 - Openmrs -INFO - we are on login page 
+2022-09-11 12:44:37,772 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:44:37,893 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:44:37,967 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:44:39,997 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:44:40,000 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:44:40,001 - Openmrs -INFO - We are on HomePage now
+2022-09-11 12:44:41,286 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:44:41,287 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:44:41,309 - Openmrs -INFO - Assertion get passed
+2022-09-11 12:44:41,318 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:44:41,709 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:44:41,710 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:50:14,457 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:50:14,472 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:50:18,249 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:50:22,106 - Openmrs -INFO - url launched successfully
+2022-09-11 12:50:22,254 - Openmrs -INFO - window get maximized
+2022-09-11 12:50:22,274 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:50:22,277 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:50:22,280 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:50:22,305 - Openmrs -INFO - we are on login page 
+2022-09-11 12:50:22,434 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:50:22,563 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:50:22,620 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:50:24,181 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:50:24,192 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:50:24,201 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:50:24,857 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:50:24,859 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:50:24,866 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:50:24,867 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:50:26,319 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:50:29,826 - Openmrs -INFO - url launched successfully
+2022-09-11 12:50:29,946 - Openmrs -INFO - window get maximized
+2022-09-11 12:50:29,961 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:50:29,966 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:50:29,970 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:50:29,971 - Openmrs -INFO - we are on login page 
+2022-09-11 12:50:30,049 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:50:30,139 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:50:30,175 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:50:31,946 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:50:31,948 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:50:31,948 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:50:34,042 - Openmrs -INFO - Clicked on find patient record
+2022-09-11 12:50:36,044 - Openmrs -INFO - Find Patient record page is dispalyed
+2022-09-11 12:50:36,084 - Openmrs -INFO - entered ID in to search box
+2022-09-11 12:50:43,805 - Openmrs -INFO - Clicked on ID
+2022-09-11 12:50:45,873 - Openmrs -INFO - Assertion for height successfull
+2022-09-11 12:50:45,895 - Openmrs -INFO - Assertion for Weight successfull
+2022-09-11 12:50:45,913 - Openmrs -INFO - Assertion for BMI successfull
+2022-09-11 12:50:45,933 - Openmrs -INFO - Assertion for BP successfull
+2022-09-11 12:50:45,953 - Openmrs -INFO - Assertion for pulse successfull
+2022-09-11 12:50:47,960 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:50:48,420 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:50:48,422 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:50:48,427 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:50:48,429 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:50:49,482 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:50:52,902 - Openmrs -INFO - url launched successfully
+2022-09-11 12:50:53,024 - Openmrs -INFO - window get maximized
+2022-09-11 12:50:53,034 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:50:53,037 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:50:53,040 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:50:53,040 - Openmrs -INFO - we are on login page 
+2022-09-11 12:50:53,133 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:50:53,234 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:50:53,315 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:50:55,012 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:50:55,014 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:50:55,015 - Openmrs -INFO - Home page is dispalyed
+2022-09-11 12:51:01,962 - Openmrs -INFO - Clicked on register patient link
+2022-09-11 12:51:01,963 - Openmrs -INFO - entering patient Name started
+2022-09-11 12:51:04,263 - Openmrs -INFO -  patient Name started successfully
+2022-09-11 12:51:06,318 - Openmrs -INFO - Patient gender get selected
+2022-09-11 12:51:06,354 - Openmrs -INFO - started entering patient Birthdate
+2022-09-11 12:51:06,643 - Openmrs -INFO - entered patient Birthdate 
+2022-09-11 12:51:08,652 - Openmrs -INFO - Started entering patient Address
+2022-09-11 12:51:09,297 - Openmrs -INFO - entered patient Address
+2022-09-11 12:51:11,308 - Openmrs -INFO - Started entering patient phone number 
+2022-09-11 12:51:11,475 - Openmrs -INFO - entered patient phone number
+2022-09-11 12:51:13,486 - Openmrs -INFO - entering relation with patient
+2022-09-11 12:51:13,777 - Openmrs -INFO - entered relation
+2022-09-11 12:51:34,290 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:51:34,657 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:51:34,658 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:51:34,665 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:51:34,667 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:51:35,717 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:51:39,565 - Openmrs -INFO - url launched successfully
+2022-09-11 12:51:39,753 - Openmrs -INFO - window get maximized
+2022-09-11 12:51:39,762 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:51:39,763 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:51:39,764 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:51:39,765 - Openmrs -INFO - we are on login page 
+2022-09-11 12:51:39,850 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:51:39,930 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:51:39,968 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:51:41,717 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:51:41,719 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:51:41,720 - Openmrs -INFO - Home page displayed
+2022-09-11 12:51:44,450 - Openmrs -INFO - Clicked on find patient record link
+2022-09-11 12:51:46,508 - Openmrs -INFO - entered patient name in search box
+2022-09-11 12:51:54,667 - Openmrs -INFO - clicked on ID of patient
+2022-09-11 12:51:56,679 - Openmrs -INFO - Patient page displayed
+2022-09-11 12:51:58,724 - Openmrs -INFO - Patient record is found
+2022-09-11 12:51:58,725 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:51:59,060 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:51:59,061 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:51:59,065 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:51:59,067 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:52:00,190 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:52:03,890 - Openmrs -INFO - url launched successfully
+2022-09-11 12:52:04,030 - Openmrs -INFO - window get maximized
+2022-09-11 12:52:04,048 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:52:04,051 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:52:04,052 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:52:04,053 - Openmrs -INFO - we are on login page 
+2022-09-11 12:52:04,112 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:52:04,189 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:52:04,227 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:52:05,865 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:52:05,866 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:52:05,867 - Openmrs -INFO - Home page is displayed
+2022-09-11 12:52:08,106 - Openmrs -INFO - clicked On Find Patient record link
+2022-09-11 12:52:10,160 - Openmrs -INFO - entered patient ID into search box on Find patient record page
+2022-09-11 12:52:16,578 - Openmrs -INFO - clicked On ID displayed in Records of patient 
+2022-09-11 12:52:18,644 - Openmrs -INFO - clicked On Delete link on Patient Page
+2022-09-11 12:52:18,758 - Openmrs -INFO - enter reason in textbox displayed after clicking delete patient link
+2022-09-11 12:52:18,798 - Openmrs -INFO - Clicked on confirm button
+2022-09-11 12:52:20,832 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:52:21,141 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:52:21,142 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:52:21,147 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:52:21,158 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:52:22,398 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:52:26,194 - Openmrs -INFO - url launched successfully
+2022-09-11 12:52:26,319 - Openmrs -INFO - window get maximized
+2022-09-11 12:52:26,324 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:52:26,325 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:52:26,332 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:52:26,335 - Openmrs -INFO - we are on login page 
+2022-09-11 12:52:26,401 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:52:26,490 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:52:26,528 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:52:28,257 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:52:28,258 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:52:28,258 - Openmrs -INFO - home page is displayed
+2022-09-11 12:52:31,131 - Openmrs -INFO - clicked on find patient record successfully
+2022-09-11 12:52:33,215 - Openmrs -INFO - name of patient entered into search box
+2022-09-11 12:52:40,747 - Openmrs -INFO - clicked on identifier i.e. ID of patient
+2022-09-11 12:52:47,759 - Openmrs -INFO - clicked On Request Appointment link
+2022-09-11 12:52:50,933 - Openmrs -INFO - entered appointment type and clicked on autosuggestion first option
+2022-09-11 12:52:52,994 - Openmrs -INFO - clicked On Save button
+2022-09-11 12:52:55,033 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:52:55,378 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:52:55,378 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:52:55,383 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:52:55,384 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:52:56,403 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:52:59,853 - Openmrs -INFO - url launched successfully
+2022-09-11 12:52:59,992 - Openmrs -INFO - window get maximized
+2022-09-11 12:53:00,005 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:53:00,016 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:53:00,020 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:53:00,021 - Openmrs -INFO - we are on login page 
+2022-09-11 12:53:00,166 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:53:00,246 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:53:00,282 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:53:02,014 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:53:02,017 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:53:02,018 - Openmrs -INFO - home is displayed
+2022-09-11 12:53:04,455 - Openmrs -INFO - Clicked on Find Patient Record link
+2022-09-11 12:53:06,467 - Openmrs -INFO - we are on Find Patient record page
+2022-09-11 12:53:06,509 - Openmrs -INFO - entered ID  in search box
+2022-09-11 12:53:14,368 - Openmrs -INFO - clicked on identifier
+2022-09-11 12:53:16,369 - Openmrs -INFO - Patient page is dispalyed
+2022-09-11 12:53:20,433 - Openmrs -INFO - Clicked on attachment link
+2022-09-11 12:53:22,441 - Openmrs -INFO - Attachment page is displayed
+2022-09-11 12:53:22,484 - Openmrs -INFO - clicked on click and drop link successfully
+2022-09-11 12:53:30,844 - Openmrs -INFO - File uploaded
+2022-09-11 12:53:30,979 - Openmrs -INFO - Entered text into Caption text area
+2022-09-11 12:53:31,038 - Openmrs -INFO - clicked on file upload button successfully
+2022-09-11 12:53:34,357 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:53:34,673 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:53:34,674 - Openmrs -INFO - ************************Execution stopped**************************
+2022-09-11 12:53:34,677 - Openmrs -INFO - *********************Execution Started**************************
+2022-09-11 12:53:34,678 - Openmrs -INFO - Chrome Browser invoked
+2022-09-11 12:53:35,718 - Openmrs -INFO - browser invoked successfully
+2022-09-11 12:53:39,657 - Openmrs -INFO - url launched successfully
+2022-09-11 12:53:39,777 - Openmrs -INFO - window get maximized
+2022-09-11 12:53:39,787 - Openmrs -INFO - Cookies deleted successfully
+2022-09-11 12:53:39,790 - Openmrs -INFO - implicit wait get applied
+2022-09-11 12:53:39,792 - Openmrs -INFO - pade loading timeout applied
+2022-09-11 12:53:39,793 - Openmrs -INFO - we are on login page 
+2022-09-11 12:53:39,862 - Openmrs -INFO - Username entered successfully
+2022-09-11 12:53:39,943 - Openmrs -INFO - Password entered successfully
+2022-09-11 12:53:39,981 - Openmrs -INFO - Clicked on InpatientWard option
+2022-09-11 12:53:41,683 - Openmrs -INFO - Clicked on login button
+2022-09-11 12:53:41,684 - Openmrs -INFO - Test Execution Started
+2022-09-11 12:53:41,685 - Openmrs -INFO - We are on HomePage now
+2022-09-11 12:53:42,816 - Openmrs -INFO - Clicked on logout link
+2022-09-11 12:53:42,816 - Openmrs -INFO - We are on Login page Now
+2022-09-11 12:53:42,826 - Openmrs -INFO - Assertion get passed
+2022-09-11 12:53:42,827 - Openmrs -INFO - Test Execution Completed
+2022-09-11 12:53:43,049 - Openmrs -INFO - all windows get closed of open browser
+2022-09-11 12:53:43,049 - Openmrs -INFO - ************************Execution stopped**************************
